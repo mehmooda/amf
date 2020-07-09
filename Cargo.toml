@@ -3,7 +3,10 @@ name = "amf"
 version = "0.1.0"
 authors = ["Asad Mehmood <asad78611@googlemail.com>"]
 edition = "2018"
-
+license = "GPL-3.0-or-later"
+description = "AMF [de]|serialization library"
+repository = "https://github.com/mehmooda/amf/"
+readme = "README.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
