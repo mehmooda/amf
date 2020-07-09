@@ -1,5 +1,5 @@
 [package]
-name = "amf"
+name = "serde_amf"
 version = "0.1.0"
 authors = ["Asad Mehmood <asad78611@googlemail.com>"]
 edition = "2018"
